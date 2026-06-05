@@ -17,7 +17,7 @@ export default function Contacts() {
           <h1 className="mb-2">Contact me</h1>
           <div className="flex gap-4">
             <a
-              href="https://t.me/truketlema"
+              href="https://t.me/We_risee"
               target="_blank"
               rel="noopener noreferrer"
             >
