@@ -17,7 +17,7 @@ export default function Contacts() {
           <h1 className="mb-2">Contact me</h1>
           <div className="flex gap-4">
             <a
-              href="https://t.me/your_username"
+              href="https://t.me/truketlema"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -25,7 +25,7 @@ export default function Contacts() {
             </a>
             {/* LinkedIn */}
             <a
-              href="https://www.linkedin.com/in/your-profile"
+              href="https://www.linkedin.com/in/truket-lema-707b19316/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -33,7 +33,7 @@ export default function Contacts() {
             </a>
 
             {/* Email */}
-            <a href="mailto:your@email.com">
+            <a href="mailto:truketlema9489@email.com">
               <FaEnvelope className="text-white hover:text-[#c778dd] cursor-pointer text-xl" />
             </a>
           </div>

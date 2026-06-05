@@ -46,7 +46,7 @@ export default function About() {
           {/* Read more button only on small/medium screens */}
           <div className="sm:mt-5">
             <a
-              href="public/Truket_Lema_Resume.pdf"
+              href="public/TruketResume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center border border-[#c778dd] px-5 py-1 transition duration-300 hover:bg-[#c778dd] hover:text-black"
