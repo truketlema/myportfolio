@@ -6,7 +6,7 @@ export default function Hero() {
     <>
       <div
         id="hero"
-        className="  flex flex-col md:flex-row  mt-10 items-center leading-6 px-8"
+        className="flex flex-col md:flex-row mt-36 md:mt-24 items-center leading-6 px-8"
       >
         <div className=" lg:flex-1 items-start flex flex-col gap-4">
           {" "}
